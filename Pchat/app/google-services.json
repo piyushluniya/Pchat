@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "959656698179",
+    "firebase_url": "https://pchat-2fb42.firebaseio.com",
+    "project_id": "pchat-2fb42",
+    "storage_bucket": "pchat-2fb42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959656698179:android:8e8264422462b5cd",
+        "android_client_info": {
+          "package_name": "com.example.hp.pchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959656698179-2o19jfvgq509ob42h85oec6jpti290dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.pchat",
+            "certificate_hash": "906044e71fa92c0f463bbbb5ad7407bf8776018c"
+          }
+        },
+        {
+          "client_id": "959656698179-kvhiqurr6okd29a3qmsukpqhugu5o2us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnc2Z6u53laYWsYm2QnvzsgIlCQcFpxRE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959656698179-kvhiqurr6okd29a3qmsukpqhugu5o2us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
